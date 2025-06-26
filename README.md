@@ -1,0 +1,2 @@
+This is a collection of programs I created for a collegic class in the 2023 school year. I'm leaving them mostly vague because although I know the curriculum is different by now, I want to make sure these are harder to cheat with. Instead I want to showcase what I did.
+You'll notice the programs start with 07, I don't know where the rest went, but they were all beginner programs such as "use a else-if statement 4 times in a program" or something similar.
